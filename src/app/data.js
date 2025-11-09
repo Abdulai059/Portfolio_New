@@ -5,7 +5,7 @@ export const projects = [
     description2: `Tech Stack: NextJs, Sass, JavaScript, Framer Motion and GSAP.`,
     description3: `Ensured full responsiveness across various devices for optimal user engagement. But may vary because of development.`,
     src: "portfolio_new.png",
-    link: "https://github.com/rishilahoti/portfolio_new",
+    link: "https://github.com/Abdulai059/Portfolio_New.git",
     color: "#ffc6a6",
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     description2: `Tech Stack: Postgres DB via Supabase, authentication, reusable UI components, Styled-components, and React Hook Form for real-time validation.`,
     description3: `Features: Functional bookings, cabin and guest management (CRUD), beautiful charts, and support for light, dark, and system themes.`,
     src: "wild-oasis.png",
-    link: "https://github.com/rishilahoti/template-next-15rc",
+    link: "https://github.com/Abdulai059/Hotel-Bookings-Dashboard.git",
     color: "#e5e0ff",
   },
   {
@@ -23,14 +23,14 @@ export const projects = [
     description2: `Features: Product listing, detailed pages, cart, checkout, order tracking, and user authentication via Supabase.`,
     description3: `Additional Features: Responsive design, modular code, real-time inventory updates, and optimized performance for scalability.`,
     src: "pressmart.png",
-    link: "https://github.com/rishilahoti/docs-new-version",
+    link: "https://github.com/Abdulai059/Pressmart.git",
     color: "#e1f0da",
   },
   {
     title: "LtechHomes.in",
     description: `Developed a user-friendly and visually appealing website for a real estate company, showcasing properties, improving online presence, and enhancing customer engagement.`,
     src: "LtechHomes.png",
-    link: "",
+    link: "https://github.com/Abdulai059/Ltech-Homes.git",
     color: "#ffe3e1",
   },
   {
@@ -38,7 +38,7 @@ export const projects = [
     description: `Tech Stack: Developed using React, Vite, and Supabase, providing a lightweight, high-performance architecture for a smooth online experience.`,
     description2: `A web development SaaS platform offering responsive design, user notifications, and a modular architecture for scalability and maintainability.`,
     src: "turtlecodes.png",
-    link: "",
+    link: "https://github.com/Abdulai059/turtle-web-designs.git",
     color: "#ffc6a6",
     // color: "#faebd700",
   },

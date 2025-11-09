@@ -65,7 +65,7 @@ export default function index() {
             </span>
             <span>
               <h3>Version</h3>
-              <p>v1</p>
+              {/* <p>v1</p> */}
             </span>
           </div>
           <div>
