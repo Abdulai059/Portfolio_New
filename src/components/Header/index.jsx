@@ -66,7 +66,7 @@ export default function Index() {
         <div className={styles.logo}>
           <p className={styles.copyright}>©</p>
           <div className={styles.name}>
-            <p className={styles.RecodeBy}>ReCode by</p>
+            <p className={styles.RecodeBy}>Code by</p>
             <p className={styles.rishi}>Zusung</p>
             {/* <p className={styles.lahoti}>Lahoti</p> */}
           </div>
