@@ -65,14 +65,14 @@ export default function index() {
             </span>
             <span>
               <h3>Version</h3>
-              <p>hey</p>
+              <p>v1</p>
             </span>
           </div>
           <div>
             <span>
               <h3>socials</h3>
             </span>
-            <div class="socials">
+            <div className="socials">
               <Magnetic>
                 <p>GitHub</p>
               </Magnetic>

@@ -251,7 +251,7 @@
 
         /* Make socials flex neatly on mobile */
         div:nth-of-type(2) {
-          display: flex;
+          display: none;
           flex-direction: column;
           gap: 10px;
 

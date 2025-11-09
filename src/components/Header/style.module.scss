@@ -16,7 +16,7 @@
     display: flex;
     cursor: pointer;
     font-weight: 400;
-	font-size: 1.35rem;
+    font-size: 1.35rem;
     p {
       margin: 0px;
       transition: all 0.5s cubic-bezier(0.76, 0, 0.24, 1);
@@ -169,6 +169,10 @@
 @media screen and (max-width: 768px) {
   .nav {
     padding-top: 15px;
+
+    a {
+      font-size: 1.2rem; // shrink nav links
+    }
   }
   .header {
     flex-direction: column;
@@ -176,9 +180,21 @@
     align-items: center;
   }
   .logo {
+    font-size: 1rem;
     color: black;
+
+    p {
+      font-size: 1rem; // force inner paragraphs to scale down
+    }
+
+    .name {
+      p {
+        font-size: 0.9rem; // adjust inner name letters if needed
+      }
+    }
+
     &:hover {
-      padding-left: 60px;
+      padding-left: 0; // optional: remove hover transforms on mobile
     }
   }
 }
